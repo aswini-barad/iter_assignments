@@ -1,3 +1,4 @@
-MY_Assignments
+ASSIGNMENTS
+
 <br>
 JAVA Codes
